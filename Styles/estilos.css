@@ -11,3 +11,11 @@
     color: white;
     text-align: end;
 }
+.header{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(34, 7, 59);
+    position: sticky;
+    top: 0;
+    /*backdrop-filter: blur(45px);*/
+}
